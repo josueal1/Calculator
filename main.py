@@ -1,5 +1,13 @@
+# main.py
+#
+# A Python script that runs on the command-line as a calculator
+# This was Josue's first lines of code before finishing high school
+# and before attending Google CSSI 2017 and UC Irvine
+#
+# Author: Josue Lopez
+# Date:   May 5th, 2017 @ 12:40 AM PST
+#
 # coding=utf-8
-
 
 #To run this Calculator program just press the "play" button or triangle
 running = True
